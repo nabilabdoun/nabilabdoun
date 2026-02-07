@@ -59,4 +59,4 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 
 ### ⚡ Fun fact
 
-I started working at 15 to fund my engineering education — today I lead AI & cybersecurity initiatives while teaching the next generation of engineers.
+I started working at 15 to fund my engineering education. Today I lead AI & cybersecurity initiatives while teaching the next generation of engineers.
