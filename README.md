@@ -53,8 +53,8 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 
 ### 📫 How to reach me
 
-* LinkedIn: *(Add your LinkedIn URL here)*
-* Email: *(Add professional email here)*
+* LinkedIn: *https://www.linkedin.com/in/nabil-abdoun/*
+* Email: *nkabdoun@gmail.com*
 
 ---
 
