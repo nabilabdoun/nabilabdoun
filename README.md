@@ -4,7 +4,7 @@ I'm **Nabil Abdoun** – AI Researcher | Cybersecurity Engineer | MBSE Enthusias
 
 Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to build secure, intelligent, and scalable systems.
 
----
+
 
 ### 🔭 I’m currently working on
 
@@ -13,7 +13,6 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 * Chaos-based cryptography & AI-assisted cryptanalysis research
 * AI-powered educational platforms & conversational agents
 
----
 
 ### 🌱 I’m currently learning
 
@@ -22,7 +21,7 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 * Agentic AI workflows & multi-agent reasoning
 * Secure AI deployment in critical infrastructures
 
----
+
 
 ### 👯 I’m looking to collaborate on
 
@@ -31,7 +30,7 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 * MBSE + AI integration projects
 * Open-source tools for AI-enhanced system modeling
 
----
+
 
 ### 🤔 I’m looking for help with
 
@@ -39,7 +38,7 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 * Explainable AI (XAI) in safety-critical systems
 * Secure AI architecture design patterns
 
----
+
 
 ### 💬 Ask me about
 
@@ -49,17 +48,15 @@ Bridging **Artificial Intelligence, Cybersecurity, and Systems Engineering** to 
 * Data Science education & curriculum design
 * Chaos-based cryptography
 
----
+
 
 ### 📫 How to reach me
 
 * LinkedIn: *https://www.linkedin.com/in/nabil-abdoun/*
 * Email: *nkabdoun@gmail.com*
 
----
+
 
 ### ⚡ Fun fact
 
 I started working at 15 to fund my engineering education — today I lead AI & cybersecurity initiatives while teaching the next generation of engineers.
-
----
